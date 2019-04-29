@@ -3,7 +3,7 @@
 This is an app is using [Akonet](http://akonet.info)  
 I made this app as an example of how to use bloc_flutter 
 # Preview
-[https://www.youtube.com/watch?v=B3JqLgcIg0w](https://www.youtube.com/watch?v=B3JqLgcIg0w)
+[https://www.youtube.com/watch?v=B3JqLgcIg0w](https://www.youtube.com/watch?v=B3JqLgcIg0w)  
 [![Preview](https://img.youtube.com/vi/B3JqLgcIg0w/0.jpg)](https://youtu.be/CxQYiHvQ20s "Everything Is AWESOME")
 
 
