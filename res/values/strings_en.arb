@@ -1,0 +1,15 @@
+{
+  "app_name": "Akonet",
+  "try_again": "Try Again",
+  "error_no_network": "No Network",
+  "retry": "Retry",
+  "ping_unkown": "Ping Is Unknown",
+  "ping_value": "Ping: $ping ms",
+  "last_down_value": "Last Down: $lastDown",
+  "last_up_value": "Last Up: $lastUp",
+  "packet_loss_24_hours": "Packet Loss (24 Hours)",
+  "packet_loss": "Packet Loss",
+  "downtime_24_hours": "Downtime (24 Hours)",
+  "downtime_minutes": "Downtime (Minutes)",
+  "downtime_daily": "Downtime (Daily)"
+}
